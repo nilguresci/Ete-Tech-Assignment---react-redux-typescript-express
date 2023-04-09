@@ -1,0 +1,135 @@
+[
+  {
+    "createdAt": "2023-04-05T23:34:02.478Z",
+    "username": "Sallie57",
+    "password": "kRi3a_MX6XIXOsD",
+    "firstName": "Bella",
+    "lastName": "Botsford",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "message 1",
+    "id": "1"
+  },
+  {
+    "createdAt": "2023-04-05T16:35:30.516Z",
+    "username": "Henriette.Lind",
+    "password": "nvoC56VgL2fboWU",
+    "firstName": "Pierce",
+    "lastName": "Smith",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "message 2",
+    "id": "2"
+  },
+  {
+    "createdAt": "2023-04-05T20:58:22.488Z",
+    "username": "Wellington59",
+    "password": "u9FDG4JqzH7kEno",
+    "firstName": "Arielle",
+    "lastName": "Friesen",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "message 3",
+    "id": "3"
+  },
+  {
+    "createdAt": "2023-04-05T18:58:03.703Z",
+    "username": "nilguresci",
+    "password": "123123",
+    "firstName": "Khalid",
+    "lastName": "Mertz",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "message 4",
+    "id": "4"
+  },
+  {
+    "createdAt": "2023-04-06T03:17:07.644Z",
+    "username": "Jerod.Heller",
+    "password": "j7viy4vkMPq_PXa",
+    "firstName": "Kasandra",
+    "lastName": "Ondricka",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "",
+    "id": "5",
+    "user": {
+      "firstName": "Deneme",
+      "lastName": "denemelastname",
+      "password": "123123"
+    }
+  },
+  {
+    "createdAt": "2023-04-06T11:08:50.732Z",
+    "username": "Susanna_Reilly51",
+    "password": "sKo7IQsw51mMDQ3",
+    "firstName": "Magdalena",
+    "lastName": "Veum",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "",
+    "id": "6",
+    "user": {
+      "username": "deneme2",
+      "firstName": "deneme2",
+      "lastName": "dene",
+      "password": "123123"
+    }
+  },
+  {
+    "createdAt": "2023-04-07T13:27:01.175Z",
+    "username": "Gianni_Jacobs0",
+    "password": "uAK8w2EHh5hr8WN",
+    "firstName": "Winnifred",
+    "lastName": "Graham",
+    "isError": false,
+    "isSuccess": false,
+    "isLoading": false,
+    "message": "",
+    "id": "7",
+    "user": {
+      "username": "dsa",
+      "firstName": "Ahmet Sait",
+      "lastName": "Çalışır",
+      "password": "123123"
+    }
+  },
+  {
+    "username": "ekle user",
+    "firstName": "ikea",
+    "lastName": "ikea",
+    "password": "123123",
+    "createdAt": "2023-04-09T15:26:44.226Z",
+    "id": "4aa1adfd-382d-40d3-943b-847e75b20e5c"
+  },
+  {
+    "username": "denneme user postaman",
+    "password": "123123",
+    "firstName": "nil",
+    "lastName": "postman",
+    "createdAt": "2023-04-09T19:06:46.383Z",
+    "id": "e28671cc-075e-48ce-8dae-f0a61c456574"
+  },
+  {
+    "username": "ghhg",
+    "firstName": "ghhg",
+    "lastName": "hghg",
+    "password": "123",
+    "createdAt": "2023-04-09T19:06:57.302Z",
+    "id": "42fd8d72-046d-48d3-ab9d-3ad8ed6fc9e7"
+  },
+  {
+    "username": "miuvfamily",
+    "password": "123123",
+    "firstName": "nil",
+    "lastName": "postman",
+    "createdAt": "2023-04-09T20:03:29.118Z",
+    "id": "3ac26d06-bd9e-49ad-9281-e4fc4e1a3a6c"
+  }
+]
